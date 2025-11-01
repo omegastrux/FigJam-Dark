@@ -1,4 +1,5 @@
-# FigJam-Darkboard
+# FigJam-Darkboard (archived)
+# This repository is not longer maintaned, because on this place will be a better project. Cya soon : )
 
 ## Overview
 FigJam-Darkboard is a simple script that enables dark mode in the FigJam whiteboard interface. It modifies the styles of key elements to provide a darker, more eye-friendly experience.
